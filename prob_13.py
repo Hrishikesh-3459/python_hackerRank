@@ -6,3 +6,5 @@ if __name__ == '__main__':
     while (ar.count(x)):
         ar.remove(x)
     print(max(ar))
+
+# checking
